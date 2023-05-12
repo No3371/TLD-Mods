@@ -198,7 +198,7 @@
 			"gameversion": [
 				"tftft"
 			],
-			"images": [],
+			"images": ["https://imgur.com/q9nD4Vh.gif"],
 			"dependencies": [
 				"ModComponent",
 				"ModData"
