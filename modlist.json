@@ -181,14 +181,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.0.2",
+			"version": "2.0.3",
 			"name": "AlcoholMod",
 			"displayName": "AlcoholMod",
 			"author": "BA",
 			"previousAuthors": "ds5678",
 			"released": "2023-05-12",
 			"updated": "2023-05-12",
-			"downloadURL": "https://github.com/No3371/AlcoholMod/releases/download/2.0.2/AlcoholMod.dll",
+			"downloadURL": "https://github.com/No3371/AlcoholMod/releases/download/2.0.3/AlcoholMod.dll",
 			"modURL": "https://github.com/No3371/AlcoholMod",
 			"description": "An optional addon for ModComponent enabling the alcohol mechanics. Without this, all alcoholic food functions as if it were non-alcoholic.",
 			"tags": "alcohol",
@@ -198,7 +198,7 @@
 			"gameversion": [
 				"tftft"
 			],
-			"images": ["https://imgur.com/q9nD4Vh.gif"],
+			"images": ["https://imgur.com/ifODU3e.jpg"],
 			"dependencies": [
 				"ModComponent",
 				"ModData"
@@ -217,7 +217,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/No3371/AlcoholMod/releases/download/2.0.2/AlcoholMod.dll"
+					"https://github.com/No3371/AlcoholMod/releases/download/2.0.3/AlcoholMod.dll"
 				]
 			},
 			"aliases": []
