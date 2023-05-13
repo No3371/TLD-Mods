@@ -23,9 +23,7 @@
 			"gameversion": [
 				"tftft"
 			],
-			"images": [
-				"https://imgur.com/7O89m10.gif"
-			],
+			"images": [],
 			"dependencies": [
 				"ModSettings",
 				"KeyboardUtilities"
