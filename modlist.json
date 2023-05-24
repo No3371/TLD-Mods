@@ -49,14 +49,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.6",
+			"version": "1.0.7",
 			"name": "SurvivorsLegacy",
 			"displayName": "Survivor's Legacy",
 			"author": "BA",
 			"previousAuthors": "",
 			"released": "2023-05-12",
-			"updated": "2023-05-12",
-			"downloadURL": "https://github.com/No3371/TLD-SurvivorsLegacy/releases/download/1.0.6/SurvivorsLegacy.dll",
+			"updated": "2023-05-25",
+			"downloadURL": "https://github.com/No3371/TLD-SurvivorsLegacy/releases/download/1.0.7/SurvivorsLegacy.dll",
 			"modURL": "https://github.com/No3371/TLD-SurvivorsLegacy",
 			"description": "Enables a minimal multiplayer interaction: Let other players find your corpse (sort of).",
 			"tags": "legacy",
@@ -86,7 +86,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/No3371/TLD-SurvivorsLegacy/releases/download/1.0.6/SurvivorsLegacy.dll"
+					"https://github.com/No3371/TLD-SurvivorsLegacy/releases/download/1.0.7/SurvivorsLegacy.dll"
 				]
 			},
 			"aliases": []
