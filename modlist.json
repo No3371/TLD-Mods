@@ -166,7 +166,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.15",
+				"tldversion": "2.16",
 				"mlversion": "6.0.1"
 			},
 			"updater": {
@@ -196,7 +196,9 @@
 			"gameversion": [
 				"tftft"
 			],
-			"images": ["https://imgur.com/ifODU3e.jpg"],
+			"images": [
+				"https://imgur.com/ifODU3e.jpg"
+			],
 			"dependencies": [
 				"ModComponent",
 				"ModData"
@@ -209,13 +211,55 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.15",
+				"tldversion": "2.16",
 				"mlversion": "6.0.1"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
 					"https://github.com/No3371/AlcoholMod/releases/download/2.0.3/AlcoholMod.dll"
+				]
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "Moment",
+			"displayName": "Moment",
+			"author": "BA",
+			"previousAuthors": "",
+			"released": "2023-05-29",
+			"updated": "2023-05-29",
+			"downloadURL": "https://github.com/No3371/TLD-Moment/releases/download/1.0.0/Moment.dll",
+			"modURL": "https://github.com/No3371/TLD-Moment",
+			"description": "Modding utility for mods to monitor ingame time and schedule events.",
+			"tags": "",
+			"categories": [
+				"Utility Mod"
+			],
+			"gameversion": [
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModData"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.16",
+				"mlversion": "6.0.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/No3371/TLD-Moment/releases/download/1.0.0/Moment.dll"
 				]
 			},
 			"aliases": []
