@@ -263,6 +263,48 @@
 				]
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "FiligranisSkills",
+			"displayName": "Filigrani's Skills",
+			"author": "BA",
+			"previousAuthors": "",
+			"released": "2023-05-29",
+			"updated": "2023-05-29",
+			"downloadURL": "https://github.com/No3371/TLD-FiligranisSkills/releases/download/1.0.0/FiligranisSkills.dll",
+			"modURL": "https://github.com/No3371/TLD-FiligranisSkills",
+			"description": "Modding utility for mods to monitor ingame time and schedule events.",
+			"tags": "",
+			"categories": [
+				"Utility Mod"
+			],
+			"gameversion": [
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModData"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.16",
+				"mlversion": "6.0.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/No3371/TLD-FiligranisSkills/releases/download/1.0.0/FiligranisSkills.dll"
+				]
+			},
+			"aliases": []
 		}
 	]
 }
