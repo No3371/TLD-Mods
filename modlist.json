@@ -275,7 +275,7 @@
 			"updated": "2023-05-29",
 			"downloadURL": "https://github.com/No3371/TLD-FiligranisSkills/releases/download/1.0.0/FiligranisSkills.dll",
 			"modURL": "https://github.com/No3371/TLD-FiligranisSkills",
-			"description": "Modding utility for mods to monitor ingame time and schedule events.",
+			"description": "Custom skill API",
 			"tags": "",
 			"categories": [
 				"Utility Mod"
