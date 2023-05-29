@@ -305,6 +305,49 @@
 				]
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "Muscle",
+			"displayName": "Muscle",
+			"author": "BA",
+			"previousAuthors": "",
+			"released": "2023-05-29",
+			"updated": "2023-05-29",
+			"downloadURL": "https://github.com/No3371/TLD-Muscle/releases/download/1.0.0/Muscle.dll",
+			"modURL": "https://github.com/No3371/TLD-Muscle",
+			"description": "Custom skill API",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModData",
+				"Moment"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.16",
+				"mlversion": "6.0.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/No3371/TLD-Muscle/releases/download/1.0.0/Muscle.dll"
+				]
+			},
+			"aliases": []
 		}
 	]
 }
