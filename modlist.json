@@ -327,6 +327,7 @@
 			],
 			"images": [],
 			"dependencies": [
+				"ModSettings",
 				"ModData",
 				"Moment"
 			],
