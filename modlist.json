@@ -315,7 +315,7 @@
 			"previousAuthors": "",
 			"released": "2023-05-29",
 			"updated": "2023-05-30",
-			"downloadURL": "https://github.com/No3371/TLD-Muscle/releases/download/1.0.1/Muscle.dll",
+			"downloadURL": "https://github.com/No3371/TLD-Muscle/releases/download/1.0.2/Muscle.dll",
 			"modURL": "https://github.com/No3371/TLD-Muscle",
 			"description": "Eat well, move a lot and properly sleep, then you will gain muscle.",
 			"tags": "",
@@ -345,7 +345,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/No3371/TLD-Muscle/releases/download/1.0.1/Muscle.dll"
+					"https://github.com/No3371/TLD-Muscle/releases/download/1.0.2/Muscle.dll"
 				]
 			},
 			"aliases": []
