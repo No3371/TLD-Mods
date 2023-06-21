@@ -6,14 +6,14 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "1.4.0",
+			"version": "1.5.0",
 			"name": "QoL",
 			"displayName": "QoL",
 			"author": "BA",
 			"previousAuthors": "",
 			"released": "2023-05-12",
-			"updated": "2023-05-29",
-			"downloadURL": "https://github.com/No3371/TLD-QoL/releases/download/1.4.0/QoL.dll",
+			"updated": "2023-06-22",
+			"downloadURL": "https://github.com/No3371/TLD-QoL/releases/download/1.5.0/QoL.dll",
 			"modURL": "https://github.com/No3371/TLD-QoL",
 			"description": "Reduce UI frustration, even make it pleasant to use. You can now use keyboard most of the time to control your game.",
 			"tags": "qol",
@@ -36,13 +36,13 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.16",
+				"tldversion": "2.17",
 				"mlversion": "6.01"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/No3371/TLD-QoL/releases/download/1.4.0/QoL.dll"
+					"https://github.com/No3371/TLD-QoL/releases/download/1.5.0/QoL.dll"
 				]
 			},
 			"aliases": []
@@ -116,14 +116,14 @@
 				"ModSettings"
 			],
 			"status": {
-				"working": true,
+				"working": false,
 				"beta": false,
 				"patchnotes": "",
-				"notes": "",
+				"notes": "Merged into QoL (2.17+)",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.15",
+				"tldversion": "2.16",
 				"mlversion": "6.01"
 			},
 			"updater": {
