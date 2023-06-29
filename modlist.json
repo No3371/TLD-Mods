@@ -349,6 +349,48 @@
 				]
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "UniqueKnowledge",
+			"displayName": "UniqueKnowledge",
+			"author": "BA",
+			"previousAuthors": "",
+			"released": "2023-06-29",
+			"updated": "2023-06-29",
+			"downloadURL": "https://github.com/No3371/TLD-UniqueKnowledge/releases/download/1.0.0/UniqueKnowledge.dll",
+			"modURL": "https://github.com/No3371/TLD-UniqueKnowledge",
+			"description": "Read each book only once.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModData"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.19",
+				"mlversion": "6.0.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/No3371/TLD-UniqueKnowledge/releases/download/1.0.0/UniqueKnowledge.dll"
+				]
+			},
+			"aliases": []
 		}
 	]
 }
