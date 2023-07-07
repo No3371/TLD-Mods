@@ -364,7 +364,7 @@
 			"description": "Read each book only once.",
 			"tags": "book, skill",
 			"categories": [
-				"Gameplay",
+				"Gameplay"
 			],
 			"gameversion": [
 				"tftft"
