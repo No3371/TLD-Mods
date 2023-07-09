@@ -429,7 +429,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/No3371/TLD-UniqueKnowledge/releases/download/1.0.2/ExamineActionsAPI.dll"
+					"https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/1.0.2/ExamineActionsAPI.dll"
 				]
 			},
 			"aliases": []
@@ -471,7 +471,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/No3371/TLD-UniqueKnowledge/releases/download/1.0.2/ThingsToDo.dll"
+					"https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/1.0.2/ThingsToDo.dll"
 				]
 			},
 			"aliases": []
