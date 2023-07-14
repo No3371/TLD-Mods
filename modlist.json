@@ -394,14 +394,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.2",
+			"version": "1.0.3",
 			"name": "ExamineActionsAPI",
 			"displayName": "Examine Actions API",
 			"author": "BA",
 			"previousAuthors": "",
 			"released": "2023-07-07",
-			"updated": "2023-07-07",
-			"downloadURL": "https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/1.0.2/ExamineActionsAPI.dll",
+			"updated": "2023-07-14",
+			"downloadURL": "https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/1.0.3/ExamineActionsAPI.dll",
 			"modURL": "https://github.com/No3371/TLD-ExamineActionsAPI",
 			"description": "Modding framework for custom Examine actions.",
 			"tags": "api",
@@ -429,21 +429,21 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/1.0.2/ExamineActionsAPI.dll"
+					"https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/1.0.3/ExamineActionsAPI.dll"
 				]
 			},
 			"aliases": []
 		},
 		{
 			"type": "mod",
-			"version": "1.0.2",
+			"version": "1.0.3",
 			"name": "ThingsToDo",
 			"displayName": "Things To Do",
 			"author": "BA",
 			"previousAuthors": "",
 			"released": "2023-07-07",
-			"updated": "2023-07-07",
-			"downloadURL": "https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/1.0.2/ThingsToDo.dll",
+			"updated": "2023-07-14",
+			"downloadURL": "https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/1.0.3/ThingsToDo.dll",
 			"modURL": "https://github.com/No3371/TLD-ExamineActionsAPI",
 			"description": "Demo mod for EAAPI, provides some useful actions.",
 			"tags": "",
@@ -471,7 +471,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/1.0.2/ThingsToDo.dll"
+					"https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/1.0.3/ThingsToDo.dll"
 				]
 			},
 			"aliases": []
