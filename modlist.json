@@ -6,14 +6,14 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "1.6.0",
+			"version": "1.6.1",
 			"name": "QoL",
 			"displayName": "QoL",
 			"author": "BA",
 			"previousAuthors": "",
 			"released": "2023-05-12",
-			"updated": "2023-06-24",
-			"downloadURL": "https://github.com/No3371/TLD-QoL/releases/download/1.6.0/QoL.dll",
+			"updated": "2023-09-29",
+			"downloadURL": "https://github.com/No3371/TLD-QoL/releases/download/1.6.1/QoL.dll",
 			"modURL": "https://github.com/No3371/TLD-QoL",
 			"description": "Reduce UI frustration, even make it pleasant to use. You can now use keyboard most of the time to control your game.",
 			"tags": "qol",
@@ -36,13 +36,13 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.19",
+				"tldversion": "2.23",
 				"mlversion": "6.01"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/No3371/TLD-QoL/releases/download/1.6.0/QoL.dll"
+					"https://github.com/No3371/TLD-QoL/releases/download/1.6.1/QoL.dll"
 				]
 			},
 			"aliases": []
@@ -394,14 +394,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.3",
+			"version": "1.0.4",
 			"name": "ExamineActionsAPI",
 			"displayName": "Examine Actions API",
 			"author": "BA",
 			"previousAuthors": "",
 			"released": "2023-07-07",
-			"updated": "2023-07-14",
-			"downloadURL": "https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/1.0.3/ExamineActionsAPI.dll",
+			"updated": "2023-09-29",
+			"downloadURL": "https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/1.0.4/ExamineActionsAPI.dll",
 			"modURL": "https://github.com/No3371/TLD-ExamineActionsAPI",
 			"description": "Modding framework for custom Examine actions.",
 			"tags": "api",
@@ -423,13 +423,13 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.19",
+				"tldversion": "2.23",
 				"mlversion": "6.0.1"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/1.0.3/ExamineActionsAPI.dll"
+					"https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/1.0.4/ExamineActionsAPI.dll"
 				]
 			},
 			"aliases": []
@@ -465,7 +465,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.19",
+				"tldversion": "2.23",
 				"mlversion": "6.0.1"
 			},
 			"updater": {
