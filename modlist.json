@@ -6,14 +6,14 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "1.6.1",
+			"version": "1.6.2",
 			"name": "QoL",
 			"displayName": "QoL",
 			"author": "BA",
 			"previousAuthors": "",
 			"released": "2023-05-12",
-			"updated": "2023-09-29",
-			"downloadURL": "https://github.com/No3371/TLD-QoL/releases/download/1.6.1/QoL.dll",
+			"updated": "2023-12-08",
+			"downloadURL": "https://github.com/No3371/TLD-QoL/releases/download/1.6.2/QoL.dll",
 			"modURL": "https://github.com/No3371/TLD-QoL",
 			"description": "Reduce UI frustration, even make it pleasant to use. You can now use keyboard most of the time to control your game.",
 			"tags": "qol",
@@ -36,27 +36,27 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.23",
-				"mlversion": "6.01"
+				"tldversion": "2.25",
+				"mlversion": "0.6.1"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/No3371/TLD-QoL/releases/download/1.6.1/QoL.dll"
+					"https://github.com/No3371/TLD-QoL/releases/download/1.6.2/QoL.dll"
 				]
 			},
 			"aliases": []
 		},
 		{
 			"type": "mod",
-			"version": "1.0.8",
+			"version": "1.0.9",
 			"name": "SurvivorsLegacy",
 			"displayName": "Survivor's Legacy",
 			"author": "BA",
 			"previousAuthors": "",
 			"released": "2023-05-12",
-			"updated": "2023-05-29",
-			"downloadURL": "https://github.com/No3371/TLD-SurvivorsLegacy/releases/download/1.0.8/SurvivorsLegacy.dll",
+			"updated": "2023-12-08",
+			"downloadURL": "https://github.com/No3371/TLD-SurvivorsLegacy/releases/download/1.0.9/SurvivorsLegacy.dll",
 			"modURL": "https://github.com/No3371/TLD-SurvivorsLegacy",
 			"description": "Enables a minimal multiplayer interaction: Let other players find your corpse (sort of).",
 			"tags": "legacy",
@@ -80,13 +80,13 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.19",
-				"mlversion": "6.01"
+				"tldversion": "2.25",
+				"mlversion": "0.6.1"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/No3371/TLD-SurvivorsLegacy/releases/download/1.0.8/SurvivorsLegacy.dll"
+					"https://github.com/No3371/TLD-SurvivorsLegacy/releases/download/1.0.9/SurvivorsLegacy.dll"
 				]
 			},
 			"aliases": []
@@ -124,7 +124,7 @@
 			},
 			"testedon": {
 				"tldversion": "2.16",
-				"mlversion": "6.01"
+				"mlversion": "0.6.1"
 			},
 			"updater": {
 				"enable": true,
@@ -136,14 +136,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.1",
+			"version": "1.2.2",
 			"name": "NotSoSillyMod",
 			"displayName": "NotSoSilly",
 			"author": "BA",
 			"previousAuthors": "",
 			"released": "2023-05-12",
-			"updated": "2023-05-12",
-			"downloadURL": "https://github.com/No3371/TLD-NotSoSilly/releases/download/1.2.1/NotSoSillyMod.dll",
+			"updated": "2023-12-08",
+			"downloadURL": "https://github.com/No3371/TLD-NotSoSilly/releases/download/1.2.2/NotSoSillyMod.dll",
 			"modURL": "https://github.com/No3371/TLD-NotSoSilly",
 			"description": "Enable physics for gears placed down for 10 seconds so you can drop your stuff around naturally, or pile up items with the power of gravity. Aims to be practical to use in Survival. Still somewhat risky, check readme for proper usage.",
 			"tags": "physic, deco",
@@ -166,27 +166,27 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.19",
+				"tldversion": "2.25",
 				"mlversion": "6.0.1"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/No3371/TLD-NotSoSilly/releases/download/1.2.1/NotSoSillyMod.dll"
+					"https://github.com/No3371/TLD-NotSoSilly/releases/download/1.2.2/NotSoSillyMod.dll"
 				]
 			},
 			"aliases": []
 		},
 		{
 			"type": "mod",
-			"version": "2.0.3",
+			"version": "2.0.4",
 			"name": "AlcoholMod",
 			"displayName": "AlcoholMod",
 			"author": "BA",
 			"previousAuthors": "ds5678",
 			"released": "2023-05-12",
-			"updated": "2023-05-12",
-			"downloadURL": "https://github.com/No3371/AlcoholMod/releases/download/2.0.3/AlcoholMod.dll",
+			"updated": "2023-12-08",
+			"downloadURL": "https://github.com/No3371/AlcoholMod/releases/download/2.0.4/AlcoholMod.dll",
 			"modURL": "https://github.com/No3371/AlcoholMod",
 			"description": "An optional addon for ModComponent enabling the alcohol mechanics. Without this, all alcoholic food functions as if it were non-alcoholic.",
 			"tags": "alcohol",
@@ -211,27 +211,27 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.19",
+				"tldversion": "2.25",
 				"mlversion": "6.0.1"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/No3371/AlcoholMod/releases/download/2.0.3/AlcoholMod.dll"
+					"https://github.com/No3371/AlcoholMod/releases/download/2.0.4/AlcoholMod.dll"
 				]
 			},
 			"aliases": []
 		},
 		{
 			"type": "mod",
-			"version": "1.0.0",
+			"version": "1.0.1",
 			"name": "Moment",
 			"displayName": "Moment",
 			"author": "BA",
 			"previousAuthors": "",
 			"released": "2023-05-29",
-			"updated": "2023-05-29",
-			"downloadURL": "https://github.com/No3371/TLD-Moment/releases/download/1.0.0/Moment.dll",
+			"updated": "2023-12-08",
+			"downloadURL": "https://github.com/No3371/TLD-Moment/releases/download/1.0.1/Moment.dll",
 			"modURL": "https://github.com/No3371/TLD-Moment",
 			"description": "Modding utility for mods to monitor ingame time and schedule events.",
 			"tags": "",
@@ -253,27 +253,27 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.19",
+				"tldversion": "2.25",
 				"mlversion": "6.0.1"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/No3371/TLD-Moment/releases/download/1.0.0/Moment.dll"
+					"https://github.com/No3371/TLD-Moment/releases/download/1.0.1/Moment.dll"
 				]
 			},
 			"aliases": []
 		},
 		{
 			"type": "mod",
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"name": "FiligranisSkills",
 			"displayName": "Filigrani's Skills",
 			"author": "BA",
 			"previousAuthors": "",
 			"released": "2023-05-29",
-			"updated": "2023-06-03",
-			"downloadURL": "https://github.com/No3371/TLD-FiligranisSkills/releases/download/1.0.1/FiligranisSkills.dll",
+			"updated": "2023-12-08",
+			"downloadURL": "https://github.com/No3371/TLD-FiligranisSkills/releases/download/1.0.2/FiligranisSkills.dll",
 			"modURL": "https://github.com/No3371/TLD-FiligranisSkills",
 			"description": "Custom skill API",
 			"tags": "",
@@ -295,27 +295,27 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.19",
+				"tldversion": "2.25",
 				"mlversion": "6.0.1"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/No3371/TLD-FiligranisSkills/releases/download/1.0.1/FiligranisSkills.dll"
+					"https://github.com/No3371/TLD-FiligranisSkills/releases/download/1.0.2/FiligranisSkills.dll"
 				]
 			},
 			"aliases": []
 		},
 		{
 			"type": "mod",
-			"version": "1.0.2",
+			"version": "1.0.3",
 			"name": "Muscle",
 			"displayName": "Muscle",
 			"author": "BA",
 			"previousAuthors": "",
 			"released": "2023-05-29",
-			"updated": "2023-05-30",
-			"downloadURL": "https://github.com/No3371/TLD-Muscle/releases/download/1.0.2/Muscle.dll",
+			"updated": "2023-12-08",
+			"downloadURL": "https://github.com/No3371/TLD-Muscle/releases/download/1.0.3/Muscle.dll",
 			"modURL": "https://github.com/No3371/TLD-Muscle",
 			"description": "Eat well, move a lot and properly sleep, then you will gain muscle.",
 			"tags": "",
@@ -339,27 +339,27 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.17",
+				"tldversion": "2.25",
 				"mlversion": "6.0.1"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/No3371/TLD-Muscle/releases/download/1.0.2/Muscle.dll"
+					"https://github.com/No3371/TLD-Muscle/releases/download/1.0.3/Muscle.dll"
 				]
 			},
 			"aliases": []
 		},
 		{
 			"type": "mod",
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"name": "UniqueKnowledge",
 			"displayName": "Unique Knowledge",
 			"author": "BA",
 			"previousAuthors": "",
 			"released": "2023-06-29",
-			"updated": "2023-07-07",
-			"downloadURL": "https://github.com/No3371/TLD-UniqueKnowledge/releases/download/1.0.1/UniqueKnowledge.dll",
+			"updated": "2023-12-08",
+			"downloadURL": "https://github.com/No3371/TLD-UniqueKnowledge/releases/download/1.0.2/UniqueKnowledge.dll",
 			"modURL": "https://github.com/No3371/TLD-UniqueKnowledge",
 			"description": "Read each book only once.",
 			"tags": "book, skill",
@@ -381,27 +381,27 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.19",
+				"tldversion": "2.25",
 				"mlversion": "6.0.1"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/No3371/TLD-UniqueKnowledge/releases/download/1.0.1/UniqueKnowledge.dll"
+					"https://github.com/No3371/TLD-UniqueKnowledge/releases/download/1.0.2/UniqueKnowledge.dll"
 				]
 			},
 			"aliases": []
 		},
 		{
 			"type": "mod",
-			"version": "1.0.4",
+			"version": "1.0.6",
 			"name": "ExamineActionsAPI",
 			"displayName": "Examine Actions API",
 			"author": "BA",
 			"previousAuthors": "",
 			"released": "2023-07-07",
-			"updated": "2023-09-29",
-			"downloadURL": "https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/1.0.4/ExamineActionsAPI.dll",
+			"updated": "2023-12-08",
+			"downloadURL": "https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/1.0.6/ExamineActionsAPI.dll",
 			"modURL": "https://github.com/No3371/TLD-ExamineActionsAPI",
 			"description": "Modding framework for custom Examine actions.",
 			"tags": "api",
@@ -423,27 +423,27 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.23",
+				"tldversion": "2.25",
 				"mlversion": "6.0.1"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/1.0.4/ExamineActionsAPI.dll"
+					"https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/1.0.6/ExamineActionsAPI.dll"
 				]
 			},
 			"aliases": []
 		},
 		{
 			"type": "mod",
-			"version": "1.0.3",
+			"version": "1.0.6",
 			"name": "ThingsToDo",
 			"displayName": "Things To Do",
 			"author": "BA",
 			"previousAuthors": "",
 			"released": "2023-07-07",
-			"updated": "2023-07-14",
-			"downloadURL": "https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/1.0.3/ThingsToDo.dll",
+			"updated": "2023-12-08",
+			"downloadURL": "https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/1.0.6/ThingsToDo.dll",
 			"modURL": "https://github.com/No3371/TLD-ExamineActionsAPI",
 			"description": "Demo mod for EAAPI, provides some useful actions.",
 			"tags": "",
@@ -465,13 +465,13 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.23",
+				"tldversion": "2.25",
 				"mlversion": "6.0.1"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/1.0.3/ThingsToDo.dll"
+					"https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/1.0.6/ThingsToDo.dll"
 				]
 			},
 			"aliases": []
