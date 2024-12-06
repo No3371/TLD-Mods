@@ -478,16 +478,16 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.0",
+			"version": "1.0.1",
 			"name": "SaveSafety",
 			"displayName": "Save Safety",
 			"author": "BA",
 			"previousAuthors": "",
 			"released": "2024-12-06",
 			"updated": "2024-12-06",
-			"downloadURL": "https://github.com/No3371/TLD_SaveSafety/releases/download/1.0.0/SaveSafety.dll",
+			"downloadURL": "https://github.com/No3371/TLD_SaveSafety/releases/download/1.0.1/SaveSafety.dll",
 			"modURL": "https://github.com/No3371/TLD_SaveSafety",
-			"description": "This simple mod explicitly warn you when saving or loading patches are not completed succesfully.",
+			"description": "This mod explicitly warns you when saving or loading patches are not successfully executed so you know it's time to quit without saving.",
 			"tags": "",
 			"categories": [
 				"Utility Mod"
@@ -511,7 +511,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/No3371/TLD_SaveSafety/releases/download/1.0.0/SaveSafety.dll"
+					"https://github.com/No3371/TLD_SaveSafety/releases/download/1.0.1/SaveSafety.dll"
 				]
 			},
 			"aliases": []
