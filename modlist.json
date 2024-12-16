@@ -6,14 +6,14 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "1.6.4",
+			"version": "1.6.6",
 			"name": "QoL",
 			"displayName": "QoL",
 			"author": "BA",
 			"previousAuthors": "",
 			"released": "2023-05-12",
-			"updated": "2024-12-05",
-			"downloadURL": "https://github.com/No3371/TLD-QoL/releases/download/1.6.4/QoL.dll",
+			"updated": "2024-12-16",
+			"downloadURL": "https://github.com/No3371/TLD-QoL/releases/download/1.6.6/QoL.dll",
 			"modURL": "https://github.com/No3371/TLD-QoL",
 			"description": "Reduce UI frustration, even make it pleasant to use. You can now use keyboard most of the time to control your game.",
 			"tags": "qol",
@@ -36,13 +36,13 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.33",
+				"tldversion": "2.35",
 				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/No3371/TLD-QoL/releases/download/1.6.4/QoL.dll"
+					"https://github.com/No3371/TLD-QoL/releases/download/1.6.6/QoL.dll"
 				]
 			},
 			"aliases": []
@@ -211,7 +211,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.25",
+				"tldversion": "2.35",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
@@ -253,7 +253,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.33",
+				"tldversion": "2.35",
 				"mlversion": "0.6.6"
 			},
 			"updater": {
@@ -339,7 +339,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.33",
+				"tldversion": "2.35",
 				"mlversion": "0.6.6"
 			},
 			"updater": {
@@ -381,7 +381,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.25",
+				"tldversion": "2.35",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
@@ -394,14 +394,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.8",
+			"version": "1.0.9",
 			"name": "ExamineActionsAPI",
 			"displayName": "Examine Actions API",
 			"author": "BA",
 			"previousAuthors": "",
 			"released": "2023-07-07",
-			"updated": "2024-12-05",
-			"downloadURL": "https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/1.0.8/ExamineActionsAPI.dll",
+			"updated": "2024-12-16",
+			"downloadURL": "https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/1.0.9/ExamineActionsAPI.dll",
 			"modURL": "https://github.com/No3371/TLD-ExamineActionsAPI",
 			"description": "Modding framework for custom Examine actions.",
 			"tags": "api",
@@ -423,27 +423,27 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.33",
+				"tldversion": "2.35",
 				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/1.0.8/ExamineActionsAPI.dll"
+					"https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/1.0.9/ExamineActionsAPI.dll"
 				]
 			},
 			"aliases": []
 		},
 		{
 			"type": "mod",
-			"version": "1.0.8",
+			"version": "1.0.9",
 			"name": "ThingsToDo",
 			"displayName": "Things To Do",
 			"author": "BA",
 			"previousAuthors": "",
 			"released": "2023-07-07",
-			"updated": "2024-12-05",
-			"downloadURL": "https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/1.0.8/ThingsToDo.dll",
+			"updated": "2024-12-16",
+			"downloadURL": "https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/1.0.9/ThingsToDo.dll",
 			"modURL": "https://github.com/No3371/TLD-ExamineActionsAPI",
 			"description": "Demo mod for EAAPI, provides some useful actions.",
 			"tags": "",
@@ -465,13 +465,13 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.33",
+				"tldversion": "2.35",
 				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/1.0.8/ThingsToDo.dll"
+					"https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/1.0.9/ThingsToDo.dll"
 				]
 			},
 			"aliases": []
@@ -505,7 +505,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.33",
+				"tldversion": "2.35",
 				"mlversion": "0.6.6"
 			},
 			"updater": {
