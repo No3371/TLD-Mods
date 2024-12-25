@@ -6,14 +6,14 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "1.6.6",
+			"version": "1.6.8",
 			"name": "QoL",
 			"displayName": "QoL",
 			"author": "BA",
 			"previousAuthors": "",
 			"released": "2023-05-12",
-			"updated": "2024-12-16",
-			"downloadURL": "https://github.com/No3371/TLD-QoL/releases/download/1.6.6/QoL.dll",
+			"updated": "2024-12-25",
+			"downloadURL": "https://github.com/No3371/TLD-QoL/releases/download/1.6.8/QoL.dll",
 			"modURL": "https://github.com/No3371/TLD-QoL",
 			"description": "Reduce UI frustration, even make it pleasant to use. You can now use keyboard most of the time to control your game.",
 			"tags": "qol",
@@ -36,13 +36,13 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.35",
+				"tldversion": "2.39",
 				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/No3371/TLD-QoL/releases/download/1.6.6/QoL.dll"
+					"https://github.com/No3371/TLD-QoL/releases/download/1.6.8/QoL.dll"
 				]
 			},
 			"aliases": []
@@ -136,14 +136,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.2",
+			"version": "1.2.3",
 			"name": "NotSoSillyMod",
 			"displayName": "NotSoSilly",
 			"author": "BA",
 			"previousAuthors": "",
 			"released": "2023-05-12",
-			"updated": "2023-12-08",
-			"downloadURL": "https://github.com/No3371/TLD-NotSoSilly/releases/download/1.2.2/NotSoSillyMod.dll",
+			"updated": "2024-12-25",
+			"downloadURL": "https://github.com/No3371/TLD-NotSoSilly/releases/download/1.2.3/NotSoSillyMod.dll",
 			"modURL": "https://github.com/No3371/TLD-NotSoSilly",
 			"description": "Enable physics for gears placed down for 10 seconds so you can drop your stuff around naturally, or pile up items with the power of gravity. Aims to be practical to use in Survival. Still somewhat risky, check readme for proper usage.",
 			"tags": "physic, deco",
@@ -166,13 +166,13 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.25",
-				"mlversion": "0.6.1"
+				"tldversion": "2.39",
+				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/No3371/TLD-NotSoSilly/releases/download/1.2.2/NotSoSillyMod.dll"
+					"https://github.com/No3371/TLD-NotSoSilly/releases/download/1.2.3/NotSoSillyMod.dll"
 				]
 			},
 			"aliases": []
@@ -224,14 +224,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.1",
+			"version": "1.0.4",
 			"name": "Moment",
 			"displayName": "Moment",
 			"author": "BA",
 			"previousAuthors": "",
 			"released": "2023-05-29",
-			"updated": "2023-12-08",
-			"downloadURL": "https://github.com/No3371/TLD-Moment/releases/download/1.0.1/Moment.dll",
+			"updated": "2024-12-25",
+			"downloadURL": "https://github.com/No3371/TLD-Moment/releases/download/1.0.4/Moment.dll",
 			"modURL": "https://github.com/No3371/TLD-Moment",
 			"description": "Modding utility for mods to monitor ingame time and schedule events.",
 			"tags": "",
@@ -253,13 +253,13 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.35",
+				"tldversion": "2.39",
 				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/No3371/TLD-Moment/releases/download/1.0.1/Moment.dll"
+					"https://github.com/No3371/TLD-Moment/releases/download/1.0.4/Moment.dll"
 				]
 			},
 			"aliases": []
@@ -478,14 +478,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.1",
+			"version": "1.0.3",
 			"name": "SaveSafety",
 			"displayName": "Save Safety",
 			"author": "BA",
 			"previousAuthors": "",
 			"released": "2024-12-06",
-			"updated": "2024-12-06",
-			"downloadURL": "https://github.com/No3371/TLD_SaveSafety/releases/download/1.0.1/SaveSafety.dll",
+			"updated": "2024-12-25",
+			"downloadURL": "https://github.com/No3371/TLD_SaveSafety/releases/download/1.0.3/SaveSafety.dll",
 			"modURL": "https://github.com/No3371/TLD_SaveSafety",
 			"description": "This mod explicitly warns you when saving or loading patches are not successfully executed so you know it's time to quit without saving.",
 			"tags": "",
@@ -505,13 +505,13 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.35",
+				"tldversion": "2.39",
 				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/No3371/TLD_SaveSafety/releases/download/1.0.1/SaveSafety.dll"
+					"https://github.com/No3371/TLD_SaveSafety/releases/download/1.0.3/SaveSafety.dll"
 				]
 			},
 			"aliases": []
