@@ -55,7 +55,7 @@
 			"author": "BA",
 			"previousAuthors": "",
 			"released": "2023-05-12",
-			"updated": "2023-12-08",
+			"updated": "2024-12-25",
 			"downloadURL": "https://github.com/No3371/TLD-SurvivorsLegacy/releases/download/1.1.0/SurvivorsLegacy.dll",
 			"modURL": "https://github.com/No3371/TLD-SurvivorsLegacy",
 			"description": "Enables a minimal multiplayer interaction: Let other players find your corpse (sort of).",
@@ -80,8 +80,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.25",
-				"mlversion": "0.6.1"
+				"tldversion": "2.39",
+				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": true,
@@ -218,6 +218,46 @@
 				"enable": true,
 				"downloads": [
 					"https://github.com/No3371/AlcoholMod/releases/download/2.0.4/AlcoholMod.dll"
+				]
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.1.0",
+			"name": "WildlifeTuning",
+			"displayName": "Wildlife Tuning",
+			"author": "BA",
+			"released": "2024-12-27",
+			"updated": "2024-12-27",
+			"downloadURL": "https://github.com/No3371/WildlifeTuning/releases/download/1.1.0/WildlifeTuning.dll",
+			"modURL": "https://github.com/No3371/WildlifeTuning",
+			"description": "TLD mod that randomizes animal behavior configurations. ",
+			"tags": "animal",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"tftft"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.39",
+				"mlversion": "0.6.6"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/No3371/WildlifeTuning/releases/download/1.1.0/WildlifeTuning.dll"
 				]
 			},
 			"aliases": []
