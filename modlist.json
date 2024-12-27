@@ -230,8 +230,8 @@
 			"author": "BA",
 			"released": "2024-12-27",
 			"updated": "2024-12-27",
-			"downloadURL": "https://github.com/No3371/WildlifeTuning/releases/download/1.1.0/WildlifeTuning.dll",
-			"modURL": "https://github.com/No3371/WildlifeTuning",
+			"downloadURL": "https://github.com/No3371/TLD-WildlifeTuning/releases/download/1.1.0/WildlifeTuning.dll",
+			"modURL": "https://github.com/No3371/TLD-WildlifeTuning",
 			"description": "TLD mod that randomizes animal behavior configurations. ",
 			"tags": "animal",
 			"categories": [
@@ -257,7 +257,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/No3371/WildlifeTuning/releases/download/1.1.0/WildlifeTuning.dll"
+					"https://github.com/No3371/TLD-WildlifeTuning/releases/download/1.1.0/WildlifeTuning.dll"
 				]
 			},
 			"aliases": []
