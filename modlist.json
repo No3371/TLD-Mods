@@ -264,6 +264,46 @@
 		},
 		{
 			"type": "mod",
+			"version": "1.0.0",
+			"name": "StorageProblem",
+			"displayName": "Storage Problem",
+			"author": "BA",
+			"released": "2024-12-27",
+			"updated": "2024-12-27",
+			"downloadURL": "https://github.com/No3371/TLD-StorageProblem/releases/download/1.0.0/StorageProblem.dll",
+			"modURL": "https://github.com/No3371/TLD-StorageProblem",
+			"description": "TLD mod that randomizes animal behavior configurations. ",
+			"tags": "animal",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"tftft"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.39",
+				"mlversion": "0.6.6"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/No3371/TLD-StorageProblem/releases/download/1.0.0/StorageProblem.dll"
+				]
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
 			"version": "1.0.4",
 			"name": "Moment",
 			"displayName": "Moment",
