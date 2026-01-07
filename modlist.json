@@ -304,14 +304,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.4",
+			"version": "1.0.6",
 			"name": "Moment",
 			"displayName": "Moment",
 			"author": "BA",
 			"previousAuthors": "",
 			"released": "2023-05-29",
-			"updated": "2024-12-25",
-			"downloadURL": "https://github.com/No3371/TLD-Moment/releases/download/1.0.4/Moment.dll",
+			"updated": "2026-01-08",
+			"downloadURL": "https://github.com/No3371/TLD-Moment/releases/download/1.0.6/Moment.dll",
 			"modURL": "https://github.com/No3371/TLD-Moment",
 			"description": "Modding utility for mods to monitor ingame time and schedule events.",
 			"tags": "",
@@ -333,13 +333,13 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.39",
-				"mlversion": "0.6.6"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/No3371/TLD-Moment/releases/download/1.0.4/Moment.dll"
+					"https://github.com/No3371/TLD-Moment/releases/download/1.0.6/Moment.dll"
 				]
 			},
 			"aliases": []
