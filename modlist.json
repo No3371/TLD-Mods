@@ -304,14 +304,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.6",
+			"version": "1.0.7",
 			"name": "Moment",
 			"displayName": "Moment",
 			"author": "BA",
 			"previousAuthors": "",
 			"released": "2023-05-29",
 			"updated": "2026-01-08",
-			"downloadURL": "https://github.com/No3371/TLD-Moment/releases/download/1.0.6/Moment.dll",
+			"downloadURL": "https://github.com/No3371/TLD-Moment/releases/download/1.0.7/Moment.dll",
 			"modURL": "https://github.com/No3371/TLD-Moment",
 			"description": "Modding utility for mods to monitor ingame time and schedule events.",
 			"tags": "",
@@ -339,7 +339,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/No3371/TLD-Moment/releases/download/1.0.6/Moment.dll"
+					"https://github.com/No3371/TLD-Moment/releases/download/1.0.7/Moment.dll"
 				]
 			},
 			"aliases": []
@@ -388,14 +388,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.8",
+			"version": "1.0.9",
 			"name": "Muscle",
 			"displayName": "Muscle",
 			"author": "BA",
 			"previousAuthors": "",
 			"released": "2023-05-29",
 			"updated": "2026-01-11",
-			"downloadURL": "https://github.com/No3371/TLD-Muscle/releases/download/1.0.8/Muscle.dll",
+			"downloadURL": "https://github.com/No3371/TLD-Muscle/releases/download/1.0.9/Muscle.dll",
 			"modURL": "https://github.com/No3371/TLD-Muscle",
 			"description": "Eat well, move a lot and properly sleep, then you will gain muscle.",
 			"tags": "",
@@ -425,7 +425,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/No3371/TLD-Muscle/releases/download/1.0.8/Muscle.dll"
+					"https://github.com/No3371/TLD-Muscle/releases/download/1.0.9/Muscle.dll"
 				]
 			},
 			"aliases": []
