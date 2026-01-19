@@ -432,14 +432,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.2",
+			"version": "1.0.3",
 			"name": "UniqueKnowledge",
 			"displayName": "Unique Knowledge",
 			"author": "BA",
 			"previousAuthors": "",
 			"released": "2023-06-29",
-			"updated": "2023-12-08",
-			"downloadURL": "https://github.com/No3371/TLD-UniqueKnowledge/releases/download/1.0.2/UniqueKnowledge.dll",
+			"updated": "2026-01-19",
+			"downloadURL": "https://github.com/No3371/TLD-UniqueKnowledge/releases/download/1.0.3/UniqueKnowledge.dll",
 			"modURL": "https://github.com/No3371/TLD-UniqueKnowledge",
 			"description": "Read each book only once.",
 			"tags": "book, skill",
@@ -461,13 +461,13 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.35",
-				"mlversion": "0.6.1"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/No3371/TLD-UniqueKnowledge/releases/download/1.0.2/UniqueKnowledge.dll"
+					"https://github.com/No3371/TLD-UniqueKnowledge/releases/download/1.0.3/UniqueKnowledge.dll"
 				]
 			},
 			"aliases": []
