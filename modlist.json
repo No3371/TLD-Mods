@@ -178,14 +178,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.0.4",
+			"version": "3.0.1",
 			"name": "AlcoholMod",
 			"displayName": "AlcoholMod",
 			"author": "BA",
 			"previousAuthors": "ds5678",
 			"released": "2023-05-12",
-			"updated": "2023-12-08",
-			"downloadURL": "https://github.com/No3371/AlcoholMod/releases/download/2.0.4/AlcoholMod.dll",
+			"updated": "2026-01-21",
+			"downloadURL": "https://github.com/No3371/AlcoholMod/releases/download/3.0.1/AlcoholMod.dll",
 			"modURL": "https://github.com/No3371/AlcoholMod",
 			"description": "An optional addon for ModComponent enabling the alcohol mechanics. Without this, all alcoholic food functions as if it were non-alcoholic.",
 			"tags": "alcohol",
@@ -210,13 +210,13 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.35",
-				"mlversion": "0.6.1"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/No3371/AlcoholMod/releases/download/2.0.4/AlcoholMod.dll"
+					"https://github.com/No3371/AlcoholMod/releases/download/3.0.1/AlcoholMod.dll"
 				]
 			},
 			"aliases": []
@@ -345,14 +345,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.2",
+			"version": "2.0.0",
 			"name": "FiligranisSkills",
 			"displayName": "Filigrani's Skills",
 			"author": "BA",
 			"previousAuthors": "",
 			"released": "2023-05-29",
-			"updated": "2023-12-08",
-			"downloadURL": "https://github.com/No3371/TLD-FiligranisSkills/releases/download/1.0.2/FiligranisSkills.dll",
+			"updated": "2026-01-21",
+			"downloadURL": "https://github.com/No3371/TLD-FiligranisSkills/releases/download/2.0.0/FiligranisSkills.dll",
 			"modURL": "https://github.com/No3371/TLD-FiligranisSkills",
 			"description": "Custom skill API",
 			"tags": "",
@@ -374,13 +374,13 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.25",
-				"mlversion": "0.6.1"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/No3371/TLD-FiligranisSkills/releases/download/1.0.2/FiligranisSkills.dll"
+					"https://github.com/No3371/TLD-FiligranisSkills/releases/download/2.0.0/FiligranisSkills.dll"
 				]
 			},
 			"aliases": []
@@ -473,14 +473,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.0.5",
+			"version": "2.0.6",
 			"name": "ExamineActionsAPI",
 			"displayName": "Examine Actions API",
 			"author": "BA",
 			"previousAuthors": "",
 			"released": "2023-07-07",
-			"updated": "2026-01-20",
-			"downloadURL": "https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/2.0.5/ExamineActionsAPI.dll",
+			"updated": "2026-01-21",
+			"downloadURL": "https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/2.0.6/ExamineActionsAPI.dll",
 			"modURL": "https://github.com/No3371/TLD-ExamineActionsAPI",
 			"description": "Modding framework for custom Examine actions.",
 			"tags": "api",
@@ -508,7 +508,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/2.0.5/ExamineActionsAPI.dll"
+					"https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/2.0.6/ExamineActionsAPI.dll"
 				]
 			},
 			"aliases": []
