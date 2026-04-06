@@ -303,14 +303,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.7",
+			"version": "1.0.8",
 			"name": "Moment",
 			"displayName": "Moment",
 			"author": "BA",
 			"previousAuthors": "",
 			"released": "2023-05-29",
-			"updated": "2026-01-08",
-			"downloadURL": "https://github.com/No3371/TLD-Moment/releases/download/1.0.7/Moment.dll",
+			"updated": "2026-04-06",
+			"downloadURL": "https://github.com/No3371/TLD-Moment/releases/download/1.0.8/Moment.dll",
 			"modURL": "https://github.com/No3371/TLD-Moment",
 			"description": "Modding utility for mods to monitor ingame time and schedule events.",
 			"tags": "",
@@ -332,13 +332,13 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.51",
+				"tldversion": "2.52",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/No3371/TLD-Moment/releases/download/1.0.7/Moment.dll"
+					"https://github.com/No3371/TLD-Moment/releases/download/1.0.8/Moment.dll"
 				]
 			},
 			"aliases": []
@@ -387,14 +387,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.9",
+			"version": "1.0.10",
 			"name": "Muscle",
 			"displayName": "Muscle",
 			"author": "BA",
 			"previousAuthors": "",
 			"released": "2023-05-29",
-			"updated": "2026-01-11",
-			"downloadURL": "https://github.com/No3371/TLD-Muscle/releases/download/1.0.9/Muscle.dll",
+			"updated": "2026-04-06",
+			"downloadURL": "https://github.com/No3371/TLD-Muscle/releases/download/1.0.10/Muscle.dll",
 			"modURL": "https://github.com/No3371/TLD-Muscle",
 			"description": "Eat well, move a lot and properly sleep, then you will gain muscle.",
 			"tags": "",
@@ -418,13 +418,13 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.51",
+				"tldversion": "2.52",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/No3371/TLD-Muscle/releases/download/1.0.9/Muscle.dll"
+					"https://github.com/No3371/TLD-Muscle/releases/download/1.0.10/Muscle.dll"
 				]
 			},
 			"aliases": []
