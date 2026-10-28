@@ -345,14 +345,14 @@
     },
     {
       "type": "mod",
-      "version": "2.0.0",
+      "version": "2.0.1",
       "name": "FiligranisSkills",
       "displayName": "Filigrani's Skills",
       "author": "BA",
       "previousAuthors": "",
       "released": "2023-05-29",
-      "updated": "2026-01-21",
-      "downloadURL": "https://github.com/No3371/TLD-FiligranisSkills/releases/download/2.0.0/FiligranisSkills.dll",
+      "updated": "2026-10-29",
+      "downloadURL": "https://github.com/No3371/TLD-FiligranisSkills/releases/download/2.0.1/FiligranisSkills.dll",
       "modURL": "https://github.com/No3371/TLD-FiligranisSkills",
       "description": "Custom skill API",
       "tags": "",
@@ -374,13 +374,13 @@
         "issues": ""
       },
       "testedon": {
-        "tldversion": "2.51",
+        "tldversion": "2.58",
         "mlversion": "0.7.2"
       },
       "updater": {
         "enable": true,
         "downloads": [
-          "https://github.com/No3371/TLD-FiligranisSkills/releases/download/2.0.0/FiligranisSkills.dll"
+          "https://github.com/No3371/TLD-FiligranisSkills/releases/download/2.0.1/FiligranisSkills.dll"
         ]
       },
       "aliases": []
