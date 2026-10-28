@@ -514,14 +514,14 @@
     },
     {
       "type": "mod",
-      "version": "1.1.2",
+      "version": "1.1.3",
       "name": "ThingsToDo",
       "displayName": "Things To Do",
       "author": "BA",
       "previousAuthors": "",
       "released": "2023-07-07",
-      "updated": "2026-07-30",
-      "downloadURL": "https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/2.0.8/ThingsToDo.dll",
+      "updated": "2026-10-29",
+      "downloadURL": "https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/2.0.9/ThingsToDo.dll",
       "modURL": "https://github.com/No3371/TLD-ExamineActionsAPI",
       "description": "Demo mod for EAAPI, provides some useful actions.",
       "tags": "",
@@ -543,13 +543,13 @@
         "issues": ""
       },
       "testedon": {
-        "tldversion": "2.55",
+        "tldversion": "2.58",
         "mlversion": "0.7.2"
       },
       "updater": {
         "enable": true,
         "downloads": [
-          "https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/2.0.8/ThingsToDo.dll"
+          "https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/2.0.9/ThingsToDo.dll"
         ]
       },
       "aliases": []
