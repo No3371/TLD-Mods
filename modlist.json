@@ -473,14 +473,14 @@
     },
     {
       "type": "mod",
-      "version": "2.0.8",
+      "version": "2.0.9",
       "name": "ExamineActionsAPI",
       "displayName": "Examine Actions API",
       "author": "BA",
       "previousAuthors": "",
       "released": "2023-07-07",
-      "updated": "2026-07-30",
-      "downloadURL": "https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/2.0.8/ExamineActionsAPI.dll",
+      "updated": "2026-10-29",
+      "downloadURL": "https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/2.0.9/ExamineActionsAPI.dll",
       "modURL": "https://github.com/No3371/TLD-ExamineActionsAPI",
       "description": "Modding framework for custom Examine actions.",
       "tags": "api",
@@ -507,7 +507,7 @@
       "updater": {
         "enable": true,
         "downloads": [
-          "https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/2.0.8/ExamineActionsAPI.dll"
+          "https://github.com/No3371/TLD-ExamineActionsAPI/releases/download/2.0.9/ExamineActionsAPI.dll"
         ]
       },
       "aliases": []
